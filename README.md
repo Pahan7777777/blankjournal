@@ -1,0 +1,2 @@
+# blankjournal
+Blanks, journals
